@@ -1,4 +1,4 @@
-package org.alevel;
+package org.alevel.lesson1;
 
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
